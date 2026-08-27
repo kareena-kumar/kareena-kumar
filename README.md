@@ -1,5 +1,7 @@
 ### 🛡️ About Me
-Networks and Cybersecurity Graduate from AUT
+🎓 Networks and Cybersecurity Graduate  
+🏫 Auckland University of Technology  
+📍 New Zealand  
 
 ---
 
@@ -12,10 +14,10 @@ Networks and Cybersecurity Graduate from AUT
 
 ---
 
-### 🤝 Connect w me!
-**LinkedIn:** *www.linkedin.com/in/kareena-kumar*
-
+### 🚧 Project Work in Progress 
+🛠️ Cloud based AD setup and user management  
+  
 ---
 
-### 🚧 Project Work in Progress 
-Cloud based AD setup and user management
+### 🤝 Connect w me!
+🔗 **LinkedIn:** *www.linkedin.com/in/kareena-kumar*
