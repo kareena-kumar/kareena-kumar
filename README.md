@@ -29,17 +29,17 @@
 
 ### 📊 Project Scorecard Categories Explained
 
-I am using a scorecard to help keep all my projects consistent and easy to compare. It gives me a simple way to evaluate each project across the same criteria, track how my skills improve over time, and reflect on what I executed well and what I can do better. Using a scorecard also keeps my portfolio organised, structured, and clear, no matter what type of project I'm working on.
+I use a scorecard to keep all my projects consistent and easy to compare. Each category is rated out of 5, which gives me a simple way to see how well I performed in different areas. It helps me track my progress over time, understand what I did well, and spot what I can improve. No matter what type of project I'm working on, the scorecard keeps everything organised and clear.
 
 - **Architecture** – How well the project is structured, designed, and organised (network layout, workflow, or code architecture).
 - **Technical Depth** – The level of complexity and technical understanding demonstrated, regardless of domain.
 - **Problem Solving** – How effectively issues were diagnosed, troubleshot, and resolved throughout the project.
 - **Documentation** – Clarity, completeness, and readability of the project’s write‑up, diagrams, and explanations.
 - **Practical Relevance** – How applicable the project is to real-world environments, job roles, or industry practices.
-- **Difficulty** – A personal star‑based rating reflecting how challenging the project was to build and complete.
 - **Overall** – A combined score summarising the project’s execution quality at a glance.
+- **Difficulty** – A personal star‑based rating reflecting how challenging the project was to build and complete.
 
 ---
 
 ### 🤝 Connect w me!
-🔗 **LinkedIn:** *www.linkedin.com/in/kareena-kumar*
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/kareena-kumar)
