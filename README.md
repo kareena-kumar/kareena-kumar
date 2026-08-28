@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 Scorecard Categories Explained
+### 📊 Project Scorecard Categories Explained
 
 I am using a scorecard to help keep all my projects consistent and easy to compare. It gives me a simple way to evaluate each project across the same criteria, track how my skills improve over time, and reflect on what I executed well and what I can do better. Using a scorecard also keeps my portfolio organised, structured, and clear, no matter what type of project I'm working on.
 
