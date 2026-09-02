@@ -27,17 +27,17 @@
 
 ---
 
-### 📊 Project Scorecard Categories Explained
+###  🤖 AI-Assisted Project Scorecards Explained
 
-I use a scorecard to keep all my projects consistent and easy to compare. Each category is rated out of 5, which gives me a simple way to see how well I performed in different areas. It helps me track my progress over time, understand what I did well, and spot what I can improve. No matter what type of project I'm working on, the scorecard keeps everything organised and clear.
+After completing each project, I run it through an AI review to generate a consistent scorecard. I use it as a second opinion to evaluate my work, spot areas for improvement, and keep every project measured against the same criteria.
 
-- **Architecture** – How well the project is structured, designed, and organised (network layout, workflow, or code architecture).
-- **Technical Depth** – The level of complexity and technical understanding demonstrated, regardless of domain.
-- **Problem Solving** – How effectively issues were diagnosed, troubleshot, and resolved throughout the project.
-- **Documentation** – Clarity, completeness, and readability of the project’s write‑up, diagrams, and explanations.
-- **Practical Relevance** – How applicable the project is to real-world environments, job roles, or industry practices.
-- **Overall** – A combined score summarising the project’s execution quality at a glance.
-- **Difficulty** – A personal star‑based rating reflecting how challenging the project was to build and complete.
+- **Architecture** – looks at how well the project is structured, designed, and organised (network layout, workflow, or code architecture)
+- **Technical Depth** – measures how complex the work was and how far into the technical details I had to go
+- **Problem Solving** – how effectively I tracked down errors, fixed bugs, and worked past roadblocks throughout the project
+- **Documentation** – rates how clear and readable the write-ups, explanations, and diagrams are so anyone else can follow along
+- **Practical Relevance** – checks whether the project mirrors real-world industry scenarios and actual skills used on the job
+- **Overall** – a combined score summarising the project’s execution quality at a glance.
+- **Difficulty** – A personal star‑based rating reflecting how challenging the project was for me to build and complete
 
 ---
 
